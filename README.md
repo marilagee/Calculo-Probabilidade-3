@@ -1,2 +1,2 @@
-# Calculo-das-Probabilidades-3
+# Calculo-das-Probabilidades-III
 Trabalho programação UERJ
